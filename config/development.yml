@@ -1,0 +1,4 @@
+#postgresql
+db:
+  uri: postgresql://scott:tiger@localhost:5432/mydatabase
+  options:

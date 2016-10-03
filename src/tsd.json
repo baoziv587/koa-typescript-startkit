@@ -1,0 +1,54 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "node/node.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "orchestrator/orchestrator.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "gulp/gulp.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "q/Q.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "sequelize/sequelize.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "bluebird/bluebird.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "validator/validator.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "koa/koa.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "koa-router/koa-router.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "config/config.d.ts": {
+      "commit": "b4bbee8f60560c34bc74b154b283f7ce83a31dae"
+    },
+    "cheerio/cheerio.d.ts": {
+      "commit": "e0abafb1a6ff652f7ff967120e312d5c1916eaef"
+    },
+    "request/request.d.ts": {
+      "commit": "e0abafb1a6ff652f7ff967120e312d5c1916eaef"
+    },
+    "form-data/form-data.d.ts": {
+      "commit": "e0abafb1a6ff652f7ff967120e312d5c1916eaef"
+    }
+  }
+}

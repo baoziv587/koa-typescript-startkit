@@ -1,0 +1,11 @@
+{
+    "name": "koa-ts-startkit",
+    "version": "0.0.1",
+    "description": "koa-ts-startkit ",
+    "title": " ",
+    "url": " ",
+    "template": {
+        "withCompare": true,
+        "withGenerator": true
+    }
+}
