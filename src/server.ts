@@ -13,7 +13,7 @@ import session = require('koa-generic-session');
 import CSRF from 'koa-csrf'
 
 import logMiddleWare from './middlewares/logger'
-import {CSRFTokenValitor, updateCSRFToken, CSRFSettings} from './middlewares/csrf'
+import {updateCSRFToken, CSRFSettings} from './middlewares/csrf'
 import sessionSettings from './middlewares/session'
 
 const app = new Koa();
@@ -47,7 +47,6 @@ app.use(bodyParser())
 /** 
  *  add the CSRF middleware
  */
-app.use(CSRFTokenValitor)
 app.use(new CSRF(sessionSettings) as any);
 app.use(updateCSRFToken);
 
